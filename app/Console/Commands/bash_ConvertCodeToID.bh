@@ -1,0 +1,1 @@
+php /home/c-mieminami.inspection-app.jp/web/inspectionMieMinami/artisan batch:ConvertCodeToID;
